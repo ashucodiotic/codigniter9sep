@@ -1,0 +1,26 @@
+.data-table-header{
+	background: #005abba8;
+}
+.pager {
+    padding-left: 0!important;
+    margin: 1.45 0!important;
+    list-style: none!important;
+}
+.pager li {
+    display: inline-block!important;
+}
+.page-link {
+    position: relative!important;
+    /*padding: 5px!important;*/
+}
+.add-page-header{
+	background: #007bff94!important;
+}
+.add-page-title{
+	float: none!important;
+	font-weight: bold;
+}
+.view-label{
+    width: 150px;
+    display: inline-block;
+}

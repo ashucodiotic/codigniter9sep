@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "firebase/php-jwt": "^5.2",
+        "phpoffice/phpspreadsheet":"*",
+        "aws/aws-sdk-php": "2.*"
+    }
+}
